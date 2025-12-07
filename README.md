@@ -98,8 +98,13 @@ Customers who used discounts but still spent above average
 Repeat buyers and their subscription likelihood
 
 Revenue contribution by age groups
+<table>
+  <tr>
+    <td><img src="https://github.com/shamsurr233-hash/customer_behaviour_analysys_project/blob/be85c41a56fa58c7a833e2949ff8dfd20a88f1d2/Images/Untitled%20design%20(7).png?raw=1" width="400"></td>
+    <td><img src="https://github.com/shamsurr233-hash/customer_behaviour_analysys_project/blob/829b20080af4ebe993d3c3a565b6f59022ce1ecc/Images/Untitled%20design%20(8).png?raw=1" width="400"></td>
+  </tr>
+</table>
 
-<img src="https://raw.githubusercontent.com/shamsurr233-hash/customer_behaviour_analysys_project/be85c41a56fa58c7a833e2949ff8dfd20a88f1d2/Images/Untitled%20design%20(7).png" width="400px">
 
 
 
