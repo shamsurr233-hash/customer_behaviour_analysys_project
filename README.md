@@ -60,7 +60,8 @@ Created age_group from age bins
 Calculated purchase_frequency_days
 
 Added loyalty indicators based on previous purchases
-![Created Age group](Images/screenshot_2025-12-07_200317.png)
+![Created Age group](Images/Screenshot%202025-12-07%20200317.png)
+
 
 
 
