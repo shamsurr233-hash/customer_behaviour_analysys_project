@@ -73,7 +73,7 @@ Loaded cleaned DataFrame into MySQL
 Performed advanced analysis using SQL queries
 
 
-🗂️ 4. SQL Analysis
+## SQL Analysis
 
 Key business questions answered using SQL:
 
@@ -99,14 +99,8 @@ Repeat buyers and their subscription likelihood
 
 Revenue contribution by age groups
 
-📌 (Add SQL query result screenshots/tables here)
-➡️ Suggested files:
+![Image](Images/Untitled%20design%20(7).png)
 
-images/sql_gender_revenue.png
-
-images/sql_top_products.png
-
-images/sql_age_group_revenue.png
 
 💡 6. Business Recommendations
 ⭐ Boost Subscriptions
