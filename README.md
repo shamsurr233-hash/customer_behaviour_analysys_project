@@ -99,9 +99,8 @@ Repeat buyers and their subscription likelihood
 
 Revenue contribution by age groups
 
-<p align="center">
-  <img src="Images/Screenshot_2025-12-07_201150.png" width="400px">
-</p>
+<img src="https://raw.githubusercontent.com/shamsurr233-hash/customer_behaviour_analysys_project/be85c41a56fa58c7a833e2949ff8dfd20a88f1d2/Images/Untitled%20design%20(7).png" width="400px">
+
 
 
 
