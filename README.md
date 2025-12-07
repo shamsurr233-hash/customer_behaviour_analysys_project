@@ -108,6 +108,7 @@ Revenue contribution by age groups
 
 
 
+Power Bi Visualization: 
 
 
 💡 6. Business Recommendations
@@ -133,14 +134,16 @@ Focus on:
 
 High-revenue age groups
 
-Express-shipping customers
+Standard-shipping customers
 
 Repeat buyers
 
 🔧 Tech Stack
 Category	Tools
 Programming	Python (pandas, numpy, matplotlib)
-Database	PostgreSQL
+Database	MySQL
 SQL	Window Functions, Joins, Aggregations
 Data Engineering	Cleaning, Feature Engineering
 Visualization	Power BI / Python
+
+
