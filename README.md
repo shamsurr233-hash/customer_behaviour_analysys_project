@@ -67,7 +67,8 @@ Added loyalty indicators based on previous purchases
 
 ✔️ Database Integration
 
-Loaded cleaned DataFrame into PostgreSQL
+
+Loaded cleaned DataFrame into MySQL
 
 Performed advanced analysis using SQL queries
 
