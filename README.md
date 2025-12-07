@@ -67,13 +67,10 @@ Added loyalty indicators based on previous purchases
 
 ✔️ Database Integration
 
-
 Loaded cleaned DataFrame into MySQL
+![Image](Images/Screenshot%202025-12-07%20201150.png)
 
 Performed advanced analysis using SQL queries
-
-📌 (Add a Python EDA screenshot here)
-➡️ Suggested file: images/python_eda.png
 
 
 🗂️ 4. SQL Analysis
