@@ -37,7 +37,9 @@ Behavioral Factors: Discount Applied, Promo Code Used, Review Rating, Shipping T
 History & Frequency: Previous Purchases, Purchase Frequency
 
 📌  dataset preview 
-➡️ File name suggestion: images/dataset_preview.png
+![Dataset Preview](images/dataset_preview.png)
+![Dataset Preview](images/dataset_preview.png)
+
 
 🧮 3. Exploratory Data Analysis (Python)
 ✔️ Data Preparation & Cleaning
