@@ -40,10 +40,7 @@ History & Frequency: Previous Purchases, Purchase Frequency
 ![Dataset Preview](Images/Screenshot%202025-12-07%20154807.png)
 
 
-![Dataset Preview](images/dataset_preview.png)
-
-
-🧮 3. Exploratory Data Analysis (Python)
+##  Exploratory Data Analysis (Python)
 ✔️ Data Preparation & Cleaning
 
 Loaded the dataset using pandas
@@ -64,6 +61,7 @@ Calculated purchase_frequency_days
 
 Added loyalty indicators based on previous purchases
 
+
 ✔️ Database Integration
 
 Loaded cleaned DataFrame into PostgreSQL
@@ -73,8 +71,6 @@ Performed advanced analysis using SQL queries
 📌 (Add a Python EDA screenshot here)
 ➡️ Suggested file: images/python_eda.png
 
-📌 (Add an ERD / Database Diagram here)
-➡️ Suggested file: images/database_erd.png
 
 🗂️ 4. SQL Analysis
 
