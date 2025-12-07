@@ -37,7 +37,9 @@ Behavioral Factors: Discount Applied, Promo Code Used, Review Rating, Shipping T
 History & Frequency: Previous Purchases, Purchase Frequency
 
 📌  dataset preview 
-![Dataset Preview](images/dataset_preview.png)
+![Dataset Preview](Images/Screenshot%202025-12-07%20154807.png)
+
+
 ![Dataset Preview](images/dataset_preview.png)
 
 
