@@ -110,6 +110,8 @@ Revenue contribution by age groups
 
 Power Bi Visualization: 
 
+![Dataset Preview](https://raw.githubusercontent.com/shamsurr233-hash/customer_behaviour_analysys_project/af2b4b1a1147f4507eee35f81db3f277c889cf1a/Images/Screenshot%202025-11-09%20183340.png)
+
 
 💡 6. Business Recommendations
 ⭐ Boost Subscriptions
